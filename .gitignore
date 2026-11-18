@@ -1,0 +1,12 @@
+**/.env
+**/.env.*
+!**/.env.example
+**/vendor/
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/*.log
+**/.phpunit.result.cache
+**/storage/*.key
+.DS_Store
+Thumbs.db
